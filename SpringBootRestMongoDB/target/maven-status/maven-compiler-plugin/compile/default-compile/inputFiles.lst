@@ -1,0 +1,4 @@
+/Users/mac/workspaces/springboot/CRUD/SpringBootRestMongoDB/src/main/java/com/grokonez/spring/restapi/mongodb/model/Customer.java
+/Users/mac/workspaces/springboot/CRUD/SpringBootRestMongoDB/src/main/java/com/grokonez/spring/restapi/mongodb/repo/CustomerRepository.java
+/Users/mac/workspaces/springboot/CRUD/SpringBootRestMongoDB/src/main/java/com/grokonez/spring/restapi/mongodb/controller/CustomerController.java
+/Users/mac/workspaces/springboot/CRUD/SpringBootRestMongoDB/src/main/java/com/grokonez/spring/restapi/mongodb/SpringBootRestMongoDbApplication.java
